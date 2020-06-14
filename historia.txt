@@ -2,6 +2,6 @@ Esta la historia de Marwin Pineda
 
 Marwin Pineda tiene 33 años y nació en Colombia
 
-Esta es la historia del Desarrollador Salesforce que vive en Punxsutawney
+marwin-sfdc es una persona que contribuye a este proyecto open source y vive en Punxsutawney
 
 Mañana nos enfocaremos en su vida laboral
